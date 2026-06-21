@@ -1,0 +1,3 @@
+Numero,Data,Usuario,Setor,Categoria,Prioridade,Status,Descricao,Solução
+001,01/06/2026,Usuario 1,Administrativo,Rede,Media,Resolvido,Usuario sem internet,Adaptador reiniciado e DNS validado
+002,02/06/2026,Usuario 2,Financeiro,Software,Baixa,Encerrado,Aplicativo nao abre,Aplicativo reinstalado com sucesso
